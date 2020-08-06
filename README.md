@@ -1,1 +1,1 @@
-# GuessTheNumber
+# Game for children "GuessTheNumber"
